@@ -1,0 +1,20 @@
+{
+  "train": {
+    "n": 11916,
+    "offensive": 3941,
+    "clean": 7975,
+    "offensive_pct": 33.1
+  },
+  "validation": {
+    "n": 1324,
+    "offensive": 459,
+    "clean": 865,
+    "offensive_pct": 34.7
+  },
+  "test": {
+    "n": 860,
+    "offensive": 240,
+    "clean": 620,
+    "offensive_pct": 27.9
+  }
+}

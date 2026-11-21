@@ -1,0 +1,12 @@
+models/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+flagged/
+.gradio/
+scripts/
+docs/
+*.pptx
+*.pdf
+models.zip

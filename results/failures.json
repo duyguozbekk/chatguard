@@ -1,0 +1,92 @@
+[
+  {
+    "text": "#BREXIT deal HAS been reached - and will be unveiled at special summit in NOVEMBER, Has @user sold out the #UK to the eu??? She better have not or the @user are finished!! @user",
+    "gold": "offensive",
+    "pred": "clean",
+    "p_offensive": 0.142
+  },
+  {
+    "text": "Are you fucking serious?",
+    "gold": "clean",
+    "pred": "offensive",
+    "p_offensive": 0.852
+  },
+  {
+    "text": "#auspol  I don't know why he is still in his job. Seriously.",
+    "gold": "offensive",
+    "pred": "clean",
+    "p_offensive": 0.186
+  },
+  {
+    "text": "#SierraBurgessIsALoser  She is me when my phone dings 😂",
+    "gold": "offensive",
+    "pred": "clean",
+    "p_offensive": 0.187
+  },
+  {
+    "text": "#Liberals / #Democrats THIS is what you stand for. If not, then #WalkAway",
+    "gold": "offensive",
+    "pred": "clean",
+    "p_offensive": 0.198
+  },
+  {
+    "text": "#EmmyAwards2018 - Ratings tank as expected.  Who can possibly stand to watch so many liberals in one place at one time.",
+    "gold": "offensive",
+    "pred": "clean",
+    "p_offensive": 0.206
+  },
+  {
+    "text": "#BiggBossTelugu2 how many of you #KaushalArmy cum @user fans...",
+    "gold": "offensive",
+    "pred": "clean",
+    "p_offensive": 0.209
+  },
+  {
+    "text": "@user Exactly it’s bc slick woods has that unconventional look that she’s who she is yea she ain’t attractive to most of us but that shit don’t matter @ all lol",
+    "gold": "clean",
+    "pred": "offensive",
+    "p_offensive": 0.791
+  },
+  {
+    "text": "#Liberals Are Reaching Peak Desperation To Call On #PhillipRuddock To Talk With #Turnbull To Convince Him To Help with #WentworthVotes 18 Sept 2018  @user #Auspol #LNP #NSWpol @user  @user @user #LNPMemes",
+    "gold": "offensive",
+    "pred": "clean",
+    "p_offensive": 0.215
+  },
+  {
+    "text": "#AmazonPets Etta can be tricky to photograph because of her colouring, but she is BEAUTIFUL and she knows it. She is in charge, has first dibs on treats, and will shout for our attention whenever she comes in the house. She kills wild rabbits but hangs out in the hutch with ours.",
+    "gold": "offensive",
+    "pred": "clean",
+    "p_offensive": 0.227
+  },
+  {
+    "text": "@user To demonstrate how wholly incapable of carrying a thought to its logical conclusion she is?",
+    "gold": "offensive",
+    "pred": "clean",
+    "p_offensive": 0.228
+  },
+  {
+    "text": "#Christian #America – If we go by #Trump’s example, where liberals support open borders, I guess conservatives support school shootings.   Please explain how this makes America great again.",
+    "gold": "offensive",
+    "pred": "clean",
+    "p_offensive": 0.237
+  },
+  {
+    "text": "@user The kindest explanation is that he is tone-deaf.  It's hard to feel kind when he and his ilk do this repeatedly.",
+    "gold": "offensive",
+    "pred": "clean",
+    "p_offensive": 0.238
+  },
+  {
+    "text": "3 days before BBC Radio 2’s Festival in a Day, they decide to tell us that their headline act isn’t coming anymore. Thanks a lot, now I’ve paid a fortune to see a tonne of acts who are shit and who are of no interest to me 😑👍🏻",
+    "gold": "clean",
+    "pred": "offensive",
+    "p_offensive": 0.759
+  },
+  {
+    "text": "#Beeto Just Demonstrated How To Lose An Election In #Texas   #MAGA @user #rkba @user #DVC",
+    "gold": "offensive",
+    "pred": "clean",
+    "p_offensive": 0.242
+  }
+]
